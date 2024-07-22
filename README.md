@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Greetings, My name is Abdelhamid NOIRA, also known as ANOIRA16</h1>
-<h3 align="center">I'm a highly skilled and sleep-deprived junior software engineer from Morocco, driving technological advancements and innovation in North Africa.</h3>
+<h1 align="left">🚀 Greetings, My name is Abdelhamid NOIRA, also known as ANOIRA16</h1>
+<h3 align="left">I'm a highly skilled and sleep-deprived junior software engineer from Morocco, driving technological advancements and innovation in North Africa.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoira16&label=Profile%20views&color=0e75b6&style=flat" alt="anoira16" /> </p>
 
